@@ -1,0 +1,29 @@
+{
+  "name": "my-node-server",
+  "version": "1.0.0",
+  "description": "A simple node server using websocket and http",
+  "main": "app.js",
+  "scripts": {
+    "test": "status"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arhanashik/my-node-server.git"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "Arhan ashik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arhanashik/my-node-server/issues"
+  },
+  "homepage": "https://github.com/arhanashik/my-node-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "pug": "^2.0.3",
+    "websocket": "^1.0.28"
+  }
+}
